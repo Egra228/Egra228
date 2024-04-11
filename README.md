@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi! I'm .NET Developer && Blazor Frontend Monster 💀
 
-<!--
-**Egra228/Egra228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 Well, let's do business?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I am engaged in full-stack development of projects on the platform* **.NET**'
+
+<p align="center">
+ <img height="250" width="1800" src="https://media1.tenor.com/m/W4eyyf6wN3UAAAAC/%D0%B1%D1%83%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B7%D1%81%D1%83.gif" alt="budanov"/>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Egra228&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://egra228.ru/)
+### 🛠 Skills
+
+WIP
